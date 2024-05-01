@@ -1,0 +1,37 @@
+.pride{ 
+    background-color:transparent ;
+    
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    top: 9em;
+    position: relative;
+
+}
+.pride img {
+max-height:100% ;
+left: -10em;
+top : -1.5em ;
+width:700px;
+position: relative;
+border-radius: 10px;
+}
+.pride h1{
+    color: blueviolet;
+    position: relative;
+    right: -3em;
+    top : -0.2em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.pride h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: black ;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    right: -10%;
+    position: relative;
+    width: 610px;
+    top:0em;
+}

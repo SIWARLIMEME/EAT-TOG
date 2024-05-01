@@ -1,0 +1,70 @@
+.pride1{ 
+    background-color:rgb(227, 223, 231) ;
+    padding : 25px 0px ;
+    
+    
+    
+    height: 600px;
+   
+    overflow: hidden;
+    top: 13em;
+    position: relative;
+
+}
+.pride1 img {
+max-height:100% ;
+left: 48em;
+top : 3em ;
+width:700px;
+position: relative;
+border-radius: 10px;
+}
+.pride1 h1{
+    color: blueviolet;
+    position: relative;
+    right: -1em;
+    top : -14em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.pride1 h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: black ;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    right: -10%;
+    position: relative;
+    width: 664px;
+    top:-18em;
+}
+.pride1 button {
+    width: 180px;
+    height: 60px;
+    background-color: rgb(174, 155, 193);
+    border:1px solid rgb(9, 6, 12) ;
+    box-sizing:border-box ;
+    text-align: center;
+    margin:20px 10px 20px 0px ;
+    position: relative;
+    top: -35em;
+    left: 16em;
+    transition: .2s ease;
+    border-radius: 20px;
+
+    
+}
+
+    .pride1 button a {
+        display: block;
+        color :white;
+        font-family: 'tajawal';
+        font-size: 20px;
+        text-decoration:underline !important;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .pride1 button:hover a {
+        color: rgb(227, 206, 246);
+    }
+    

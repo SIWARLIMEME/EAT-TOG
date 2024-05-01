@@ -1,0 +1,129 @@
+#donate {
+    background-color: rgb(238, 235, 243);
+    padding: 10px 10px;
+    width: 100%;
+    height: 50em;
+    top: -7em;
+    left: 0em;
+    position: relative;
+    max-height: 50em;
+    
+}
+
+#donate h1 {
+    font-size: 3em;
+    color: rgb(86, 29, 144);
+    line-height: 1.2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    left: 13EM;
+    top: 0.5em;
+}
+
+#donate p {
+    font-size: 2.1em;
+    color: rgb(20, 5, 35);
+    line-height: 1.2em;
+    font-family: cursive;
+    font-weight: bold;
+    width: 50%;
+    position: relative;
+    top:2em;
+    left: 21em;
+}
+
+form input {
+    border: 1px solid rgb(116, 58, 171);
+    margin: 10px 0px;
+    width: 100%;
+    background-color: rgb(245, 233, 255);
+    padding: 10px;
+    height: 50px;
+    border-radius: 4px;
+    color: rgb(12, 12, 12);
+    font-size: 17px;
+    outline: none;
+}
+
+#donate form button {
+    width: 6em;
+    background-color: rgb(217, 209, 224);
+    text-transform: uppercase;
+    color: rgb(16, 3, 29);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.container4 form button:hover {
+    background-color: rgb(217, 189, 244);
+    color: rgb(18, 7, 29);
+}
+
+#donate form {
+    background-color: rgb(52, 7, 95);
+    box-sizing: border-box;
+    width: 32%;
+    max-width: 520px;
+    height: auto;
+    padding: 35px;
+    border-radius: 17px;
+    position: absolute;
+    top: 9EM;
+    left: 5em;
+    /* Centrer le formulaire horizontalement */
+}
+
+/* Supprimez les1 valeurs de positionnement dans les autres sélecteurs pour éviter les problèmes de chevauchement */
+form input {
+    border: 1px solid rgb(116, 58, 171) ;
+    margin: 10px 0px ;
+    width: 400px ;
+    background-color: rgb(245, 233, 255);
+    padding: 10px;
+    height: 50px;
+    margin: 10px 0px;
+    border-radius: 4px;
+    color: rgb(12, 12, 12);
+    font-size: 17px;
+    outline: none;
+    
+
+    
+    
+}
+.container4 form button {
+    width:6em ;
+    background-color:rgb(217, 209, 224);
+    text-transform:uppercase;
+    color: rgb(16, 3, 29);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    right: -10em;
+    position: relative;
+    top: -0.3em;
+
+}
+.container4 form button:hover{
+    background-color: rgb(217, 189, 244);
+    color: rgb(18, 7, 29);
+}
+.footer-bottom{
+    text-align: center;
+    margin-top: 27px;
+    padding: 15px 0px ;
+    border-top: 1px solid white;
+    position: relative;
+    top: 15em;
+    
+}
+span{
+    font-size: 20PX;
+    
+}
+
+  
+    
+
+.container form input :hover {
+    border: 1px solid rgb(15, 13, 13);}

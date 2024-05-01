@@ -1,0 +1,63 @@
+/* Navig.css */
+
+/* Style de base pour le conteneur de la barre de navigation */
+#navigation {
+    position:relative;
+   
+    top:0EM;
+    
+    padding: 10px 50px;
+    background-color:rgb(176, 155, 196); 
+      height: 8EM;
+      width: 95em;
+   
+    /* Ajoute une transition pour un effet d'animation doux */
+  }
+
+
+
+  
+ 
+  
+
+        
+    
+  #navigation a {
+    
+    color: black; /* Couleur du texte des liens */
+    text-align: center;
+    padding: 17px 25px; /* Espacement intérieur des liens */
+    text-decoration: none;
+    position: relative;
+    top: 1.3em;
+    left: 10em;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    
+  }
+  
+  /* Changement de style lorsque le curseur survole un lien */
+  #navigation a:hover {
+    background-color: transparent; /* Couleur de fond au survol */
+    color: black;
+    text-decoration: none;
+     /* Couleur du texte au survol */
+  }
+  
+  /* Style pour le logo dans la barre de navigation */
+  .logo {
+    display: block;
+    margin: auto;
+    position: relative;
+    height: 7em;
+    top: -7.5em;
+    left: -39em;
+  }
+  
+  
+  
+  
+  
+ 
+  

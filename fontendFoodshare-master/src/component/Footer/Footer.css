@@ -1,0 +1,89 @@
+.container3 {
+    background-color: rgb(30, 15, 42);
+    width: 100%;
+   
+   position:relative;
+   top:16em;
+   height: 280px;
+   max-height:300px ;
+}
+.container3 h1 {
+    color: white;
+    position: relative;
+    right: -5.5em;
+    top : -5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container3 h2 {
+    color: beige;
+    position: relative;
+    right: -28em;
+    top : .4em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2.4em;
+}
+    .container3 ul li {
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+    top: -8em;
+    right: -3em;
+    margin-right: 5em;
+
+}
+.container3 ul li a {
+    font-size: 16px;
+    letter-spacing: 1px;
+    
+}
+.img-social{
+    width:40px ;
+    height:40px ;
+    position: relative;
+    top: -3em;
+    
+}
+.container3 form {
+    margin: 15px 0px;
+    top: 1em;
+    left: 65em;
+
+    position: relative;
+
+}
+.container3 form input {
+    border: 1px solid blueviolet ;
+    margin: 10px 0px ;
+    width: 300px ;
+    position: relative;
+    left: 5px;
+    
+}
+.container3 form button {
+    width:4em ;
+    background-color:rgb(212, 169, 252);
+    text-transform:uppercase;
+    color: rgb(16, 3, 29);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    right: -3em;
+    position: relative;
+    top: -1.5em;
+}
+.footer-bottom{
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px 0px ;
+    border-top: 1px solid white;
+    position: relative;
+    top: 15em;
+    
+}
+.container3 span{
+    font-size: 20PX;
+    position: relative;
+    top:-2em;
+    right: -27em;
+    
+}
